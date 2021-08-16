@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\bin\Debug\asciiprinter.exe.config
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\bin\Debug\asciiprinter.exe
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\bin\Debug\asciiprinter.pdb
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\obj\Debug\asciiprinter.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\obj\Debug\asciiprinter.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\obj\Debug\asciiprinter.exe
+C:\Users\vitor\Desktop\asciiprinter\asciiprinter\obj\Debug\asciiprinter.pdb
