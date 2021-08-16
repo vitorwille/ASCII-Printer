@@ -6,6 +6,7 @@ Render images as ASCII art in this console application.
 # Idea
 
 I thought about making a GIF with my name rendering to my Discord profile, so I decided to make this public.
+![alt text](https://cdn.discordapp.com/attachments/873233728216891452/876964159890288650/banner.gif)
 
 # Build
 1. Download the source.
