@@ -15,7 +15,7 @@ I thought about making a GIF with my name rendering to my Discord profile, so I 
 4. Build!
 
 # Know bugs
- - Press "enter" after console window get maximized to start rendering.
+ - You tell me!
 
 
-#### Readme.md last updated on 16/08/2021.
+#### Readme.md last updated on 23/08/2021.
