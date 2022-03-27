@@ -14,8 +14,4 @@ I thought about making a GIF with my name rendering to my Discord profile, so I 
 3. Change the image path for the desired image.
 4. Build!
 
-# Know bugs
- - You tell me!
-
-
-#### Readme.md last updated on 23/08/2021.
+#### Readme.md last updated on 27/03/2022.
